@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=50&lines=Learning+how+neural+networks+work;Building+networks+people+can+depend+on;Open+to+thoughtful+collaborations" alt="Learning neural networks, building dependable networks, and collaborating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=50&lines=Building+AI+agents+around+language+models;Learning+how+neural+networks+work;Building+networks+people+can+depend+on;Open+to+thoughtful+collaborations" alt="Building AI agents, learning neural networks, building dependable networks, and collaborating" />
 </p>
 
 <p align="center">
@@ -21,6 +21,9 @@ A working model is only the beginning. I want to know what it learned, why an ap
 
 I learn by experimenting, reading, and building small things myself.
 
+I'm also building AI agents around language models. That means working with the tools, memory,
+state, and control loops that turn a model into a system capable of doing useful work.
+
 My other field is physical networking.
 
 I plan and maintain router-based networks for households, offices, and other shared spaces, from initial design and configuration to stubborn coverage problems and ongoing troubleshooting.
@@ -29,9 +32,10 @@ Reliability matters when people depend on the network every day.
 
 ## Tools and technologies
 
-### Machine learning
+### AI, agents, and machine learning
 
 <p>
+  <img src="https://img.shields.io/badge/AI_Agents-Building-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Building AI agents" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -62,6 +66,7 @@ Reliability matters when people depend on the network every day.
 
 - Training small neural networks
 - Understanding what changes a model's behavior
+- Building agent systems around LLMs, tools, memory, and control loops
 - Designing and configuring router networks for real environments
 - Troubleshooting the awkward reliability problems that appear when hardware, coverage, and people meet
 
